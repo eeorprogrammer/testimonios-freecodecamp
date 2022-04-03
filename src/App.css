@@ -24,10 +24,12 @@ h1{
   flex-wrap: wrap;align-items: center;
   justify-content: center;
   text-align: center;
+  
 }
 
 .contenedor-principal{
   min-height: 600 px;
+  
   display: flex;
   flex-wrap: wrap;
   align-items: center;
